@@ -1,0 +1,15 @@
+header
+{
+    background-color: #5ead95;
+    box-shadow: 0 0 8px gray;
+    text-align: center;
+    width: 100%;
+}
+
+main
+{
+    width: 80%;
+    margin: 10px auto;
+    font-size: 15px;
+}
+

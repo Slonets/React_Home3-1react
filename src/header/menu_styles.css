@@ -1,0 +1,39 @@
+.blockMenu {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+    height: 90%;
+    justify-content: center;
+}
+
+li {
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
+
+li a
+{
+    padding-top: 30px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: inherit;
+}
+
+li:hover {
+    background-color: #68aa68;
+    cursor: pointer;
+}
